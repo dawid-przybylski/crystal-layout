@@ -1,0 +1,33 @@
+.cl-header{
+    width: 100%;
+    height: 40px;
+    background: #454545;
+    color: whitesmoke;
+    font-family: Consolas, Inconsolata, "Courier New", monospace, Segoe WPC, Segoe UI, sans-serif;
+    font-size: 13px;
+    line-height: 40px;
+}
+
+.cl-tab{
+    display: block;
+    float: left;
+    height: 40px;
+    padding: 0 10px 0 10px;
+    border-right: solid 1px #373738;
+    color: #8E8E8E;
+}
+
+.cl-tab .selected{
+    background: #303030
+}
+
+/* cl-tab
+    selected:
+      background: 454545;
+      border-right: 37, 37, 38
+
+      --monaco-monospace-font: Consolas,Inconsolata,"Courier New",monospace;
+}
+.windows {
+   
+*/
